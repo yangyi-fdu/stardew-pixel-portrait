@@ -1,7 +1,7 @@
 # Technical Details
 
 **Decoupling Structure, Style and Colour: A Modular Diffusion Pipeline for Photograph-to-Pixel-Art Conversion under Few-Shot Constraints**
-MSc Computing Science dissertation, University of Glasgow (2026)
+MSc Computing Science dissertation, University of Glasgow (2026) · 📄 [Full dissertation (PDF)](dissertation.pdf)
 
 Full write-up behind the [project README](../README.md): the failure analysis, every parameter sweep, engineering fixes and limitations. Section numbers below are local to this page.
 

@@ -1,6 +1,6 @@
 # Photo → Pixel-Art Portrait with Few-Shot Diffusion
 
-MSc dissertation, University of Glasgow (2026): *Decoupling Structure, Style and Colour: A Modular Diffusion Pipeline for Photograph-to-Pixel-Art Conversion under Few-Shot Constraints*
+MSc dissertation, University of Glasgow (2026): *Decoupling Structure, Style and Colour: A Modular Diffusion Pipeline for Photograph-to-Pixel-Art Conversion under Few-Shot Constraints* · 📄 [Read the dissertation (PDF)](docs/dissertation.pdf)
 
 <p align="center">
   <img src="assets/demo.gif" width="780" alt="Demo: input photo, colour prior, edge prior, baselines, final output and strength sweep">
